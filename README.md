@@ -11,3 +11,4 @@ b. **LoRA Fine-Tuning Approach**:
    A pipeline that applies Low-Rank Adaptation (LoRA) to fine-tune PLMs for AMP classification, demonstrating the effectiveness of parameter-efficient fine-tuning techniques.
 
 ---
+![Pipelines Illustration](pipelines.png)
