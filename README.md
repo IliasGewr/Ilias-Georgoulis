@@ -1,6 +1,6 @@
 # **Pipelines for Antimicrobial Peptide (AMP) Classification**
 
-This repository presents the two key pipelines described in our paper **"Transfer Learning on Protein Language Models Improves
+This repository presents the two pipelines described in our paper **"Transfer Learning on Protein Language Models Improves
 Antimicrobial Peptide Classification"** for performing Antimicrobial Peptide (AMP) Classification:
 
 1. **Embedding-Based Approach**:  
