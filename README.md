@@ -7,8 +7,8 @@ Antimicrobial Peptide Classification"** for performing Antimicrobial Peptide (AM
 a. **Embedding-Based Approach**:  
    A pipeline that uses pretrained Protein Language Models (PLMs) to extract embeddings from protein sequences, which are then utilized for AMP classification using shallow classifiers.
 
-b. **LoRA Fine-Tuning Approach**:  
-   A pipeline that applies Low-Rank Adaptation (LoRA) to fine-tune PLMs for AMP classification, demonstrating the effectiveness of parameter-efficient fine-tuning techniques.
+b. **LoRA/QLoRA Fine-Tuning Approach**:  
+   A pipeline that applies Low-Rank Adaptation (LoRA) or Quantized Low-Rank Adaptation (QLoRA) to fine-tune PLMs for AMP classification, demonstrating the effectiveness of parameter-efficient fine-tuning techniques.
 
 ---
 ![Pipelines Illustration](pipelines.png)
